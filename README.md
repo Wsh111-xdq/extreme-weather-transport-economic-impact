@@ -99,5 +99,3 @@ The small-scale MRIO input file required for the minimal example is included in 
 ## 6. Code availability
 
 The repository is being developed to support the reproducibility of the manuscript.
-
-The initial release contains a minimal dynamic MRIO simulation. Additional scripts for traffic prediction, OD estimation, full-scale dynamic MRIO simulation, and scenario analysis will be added as they are prepared for release.
